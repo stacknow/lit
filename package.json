@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@lit/reactive-element": "^2.0.0",
+    "express": "^4.21.1",
+    "lit": "^3.0.0",
+    "lit-element": "^4.0.0",
+    "lit-html": "^3.0.0"
+  }
+}
